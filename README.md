@@ -1,2 +1,2 @@
-# Excel_Data_Analysis_Project
+# Excel_Data_Analysis_Projects
 Showcasing my Excel Skills
